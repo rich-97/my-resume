@@ -13,6 +13,82 @@ const HomePage = () => {
     },
   ];
 
+  const sections = [
+    {
+      title: "Contact",
+      items: [
+        {
+          name: "Phone",
+          value: "+57 3135472537",
+        },
+        {
+          name: "Email",
+          value: "morenoricardo237@gmail.com",
+        },
+        {
+          name: "Address",
+          value: "Santa Marta, Colombia",
+        },
+      ],
+    },
+    {
+      title: "Education",
+      items: [
+        {
+          name: "System engineering",
+          value: "2015 - 2019 at Dr. Jose Gregorio Hernandez, Venezuela",
+        },
+      ],
+    },
+    {
+      title: "Language",
+      items: [
+        {
+          name: "Spanish",
+          value: "Native",
+        },
+        {
+          name: "English",
+          value: "Intermediate / B2",
+        },
+      ],
+    },
+    {
+      title: "Libraries & Frameworks",
+      items: [
+        {
+          name: "React.js",
+          value: "More than 5 years of experience",
+        },
+        {
+          name: "Node.js",
+          value: "More than 5 years of experience",
+        },
+        {
+          name: "React Native",
+          value: "More than 3 years of experience",
+        },
+        {
+          name: "Flask & Django (Python)",
+          value: "1 year of experience",
+        },
+        {
+          name: "Backbone.js",
+          value: "1 year of experience",
+        },
+        {
+          name: "GraphQL",
+          value: "1 year of experience",
+        },
+
+        {
+          name: "Wordpress, OctoberCMS & Laraval (PHP)",
+          value: "2 year of experience",
+        },
+      ],
+    },
+  ];
+
   return (
     <div className={styles.HomeContainer}>
       <div className={styles.HomeLeft}>
@@ -22,24 +98,17 @@ const HomePage = () => {
             src="https://dtv0n64gnvy8v.cloudfront.net/39e7ed72-3b15-11eb-bac4-98460a8fcda2.jpg"
           />
         </div>
-        <div>
-          <h2 className={styles.TitleUnderlineWhite}>Contact</h2>
-          <p className={styles.ProfileTextWhite}>Phone</p>
-          <p className={styles.ProfileTextWhite}>+57 3135472537</p>
-          <br />
-          <p className={styles.ProfileTextWhite}>Email</p>
-          <p className={styles.ProfileTextWhite}>morenoricardo237@gmail.com</p>
-          <br />
-          <p className={styles.ProfileTextWhite}>Address</p>
-          <p className={styles.ProfileTextWhite}>Santa Marta, Colombia</p>
-        </div>
-        <br />
-        <div>
-          <h2 className={styles.TitleUnderlineWhite}>Education</h2>
-          <p className={styles.ProfileTextWhite}>2015 - 2019</p>
-          <p className={styles.ProfileTextWhite}>System engineering</p>
-          <p className={styles.ProfileTextWhite}>Dr. Jose Gregorio Hernandez</p>
-        </div>
+        {sections.map((section, sectionKey) => (
+          <div className={styles.Section} key={sectionKey}>
+            <h2 className={styles.TitleUnderlineWhite}>{section.title}</h2>
+            {section.items.map((item, itemKey) => (
+              <div className={styles.SectionItem} key={itemKey}>
+                <p className={styles.ProfileTextWhiteBold}>{item.name}</p>
+                <p className={styles.ProfileTextWhite}>{item.value}</p>
+              </div>
+            ))}
+          </div>
+        ))}
       </div>
       <div className={styles.HomeRight}>
         <h1 className={styles.Name}>Ricardo Moreno</h1>
