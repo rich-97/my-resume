@@ -4,12 +4,60 @@ import styles from "@/styles/Home.module.css";
 const HomePage = () => {
   const jobs = [
     {
-      date: "Feb 2002 - Present",
+      date: "Feb 2022 - Present",
       company: "Insightt",
       companyLink: "https://insightt.io",
       title: "Full-Stack Javascript Developer",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus velit commodi sapiente. Non accusamus mollitia debitis laboriosam enim, voluptates eaque quam reiciendis tempora facere maxime molestiae quia sapiente omnis inventore!",
+        "Insightt is a car repossession  company on the USA. Here I worked with JavaScript using React.js for the Front-End, for Back-End Node.js and mobile apps with React Native.",
+    },
+    {
+      date: "Feb 2021 - Feb 2022",
+      company: "Tipzty",
+      companyLink: "https://tipzty.com",
+      title: "CTO and Full-Stack Software Developer",
+      description:
+        "Tipzty offer to ecommerce various services for improve their sales trought live and video shopping, also have a Personal Shopper service online. Here I worked with JavaScript using React.js for the Front-End, for Back-End GoLang & Node.js and mobile apps with Flutter & React Native. Also I worked as CTO during 3 months making decisions on the area of development.",
+    },
+    {
+      date: "Ene 2020 - Ene 2021",
+      company: "Cobuildlab",
+      companyLink: "https://cobuildlab.com",
+      title: "Full-Stack JavaScript Developer",
+      description:
+        "Cobuildlab is a software development company, here I worked with JavaScript React.js, Node.js, React Native, 8base and GraphQL. Here I worked in a lot of projects like okroo.com, jobcore.co and menafesting.com.",
+    },
+    {
+      date: "Sept 2019 - Dic 2019",
+      company: "Picap",
+      companyLink: "https://picap.co",
+      title: "Front-End Developer",
+      description:
+        "Picap is an app like Uber in LATAM but using motorcycles and cars, here I worked with React.js on the Front-End side. I was in charge of develop an administrative panel for the company without using templates.",
+    },
+    {
+      date: "Jun 2019 - Sept 2019",
+      company: "Aerolab",
+      companyLink: "https://aerolab.co/expertise",
+      title: "React Native Mobile Developer",
+      description:
+        "Aerolab is also a software development agency, here I worked with React Native as mobile developer. I contributed to finish an app for www.personal.com.ar.",
+    },
+    {
+      date: "Mar 2017 - Jun 2019",
+      company: "Cmantikweb",
+      companyLink: "https://cmantikweb.com",
+      title: "Full-Stack Web Developer",
+      description:
+        "Working with Cmantikweb was my first job as a Full-Stack Developer at an Agency of Software, here I worked with React.js, Backbone.js, PHP5+ with Laravel, MySQL, OctoberCMS, Node.js and more.",
+    },
+    {
+      date: "Jan 2017 - Mar 2017",
+      company: "Valery",
+      companyLink: "https://valery.com",
+      title: "Back-End Developer",
+      description:
+        "Developing microservices using Node.js for Valery products on the web and desktop apps. Valery has various products to manage and improve the efficiency of each kind of business.",
     },
   ];
 
@@ -116,10 +164,13 @@ const HomePage = () => {
         <div>
           <h2 className={styles.TitleUnderline}>Profile</h2>
           <p className={styles.ProfileText}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Necessitatibus velit commodi sapiente. Non accusamus mollitia
-            debitis laboriosam enim, voluptates eaque quam reiciendis tempora
-            facere maxime molestiae quia sapiente omnis inventore!
+            I am a software developer specialized in web and mobile applications
+            with more than 5 years of experience in different Frameworks. As a
+            professional I am in charge of the analysis, design and
+            implementation of components, architectures and systems in the area
+            of software development. My experience has taught me to choose
+            wisely the resources and tools to create an applicable, scalable and
+            efficient software solution.
           </p>
         </div>
         <div>

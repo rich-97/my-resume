@@ -92,11 +92,11 @@
 }
 
 .JobLeft {
-  width: 20%;
+  width: 30%;
 }
 
 .JobRight {
-  width: 80%
+  width: 70%
 }
 
 .JobTitle {
@@ -104,6 +104,7 @@
 }
 
 .JobDesc {
+  letter-spacing: 0.25px;
   color: #555555
 }
 
