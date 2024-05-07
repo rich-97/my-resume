@@ -65,7 +65,7 @@ const HomePage: FC<Props> = ({ data }) => {
                   <p className={styles.JobDate}>{job.company}</p>
                   <a
                     className={styles.JobDate}
-                    href={job.companyLink}
+                    href={`https://${job.companyLink}`}
                     target="_blank"
                     rel="noreferrer"
                   >

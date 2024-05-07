@@ -1,60 +1,81 @@
 {
-  "email": "ricardo.moreno.dev@gmail.com",
+  "email": "morenoricardo237@gmail.com",
   "full_name": "Ricardo Moreno",
   "avatar": "https://dtv0n64gnvy8v.cloudfront.net/39e7ed72-3b15-11eb-bac4-98460a8fcda2.jpg",
   "phone": "+57 3135472537",
   "address": "Santa Marta, Colombia",
-  "profession": "Full-Stack JavaScript Developer",
-  "description": "I am a software developer specialized in web and mobile applications with more than 5 years of experience in different Frameworks. As a professional I am in charge of the analysis, design and implementation of components, architectures and systems in the area of software development. My experience has taught me to choose wisely the resources and tools to create an applicable, scalable and efficient software solution.",
+  "profession": "Senior Full-Stack Developer",
+  "description": "I am a software developer specialized in web and mobile applications with more than 6 years of experience in different Frameworks. As a professional I am in charge of the analysis, design and implementation of components, architectures and systems in the area of software development. My experience has taught me to choose wisely the resources and tools to create an applicable, scalable and efficient software solution.",
   "jobs": [
     {
-      "date": "Feb 2022 - Present",
+      "date": "Jan 2024 - May 2024",
+      "company": "Sweedies",
+      "companyLink": "getsweedies.com",
+      "title": "Shopify Developer (part-time)",
+      "description": "Sweedies crafts indulgent, superfood-infused treats for moments of relaxation and enjoyment. Their products offers accessible indulgence, perfect for post-workout treats or movie nights. Sweedies' dedication to excellence drives me to craft captivating online experiences. As a developer, I create bespoke website themes, aligning with Sweedies' vision of quality and innovation."
+    },
+    {
+      "date": "Jan 2024 - May 2024",
+      "company": "Tonymoly Colombia",
+      "companyLink": "tonymolycolombia.com",
+      "title": "Shopify Developer (part-time)",
+      "description": "Tonymoly Colombia, a Korean cosmetics leader since 2015, educates Latin women on Eastern-inspired skincare. Offering specialized products, I, as a developer, resolved issues and enhanced the live theme. My attention to detail maintained Tonymoly's online presence, reinforcing its position in Colombia."
+    },
+    {
+      "date": "Jan 2023 - Dec 2023",
+      "company": "ByYuto LLC",
+      "companyLink": "byyuto.com",
+      "title": "Full-Stack Developer",
+      "description": "ByYuto LLC is a unique design, app, and web development agency that goes beyond mere service provision. They prioritize building enduring partnerships with clients, rooted in transparency, trust, and a mutual commitment to excellence. As a full-stack developer at ByYuto, I contribute to the company's mission by leveraging my expertise in both front-end and back-end development to create innovative solutions for clients. "
+    },
+    {
+      "date": "Feb 2022 - Dec 2022",
       "company": "Insightt",
-      "companyLink": "https://insightt.io",
+      "companyLink": "insightt.io",
       "title": "Full-Stack Javascript Developer",
-      "description": "Insightt is a car repossession  company on the USA. Here I worked with JavaScript using React.js for the Front-End, for Back-End Node.js and mobile apps with React Native."
+      "description": "At Insightt, a top car repossession firm in the USA, I excelled as a developer. I used JavaScript (React.js) for intuitive front-end interfaces and Node.js for robust back-end functionality. Additionally, I developed mobile apps with React Native, expanding their reach and enhancing user accessibility. My expertise drove Insightt's technological advancement, ensuring ongoing success in the industry."
     },
     {
       "date": "Feb 2021 - Feb 2022",
       "company": "Tipzty",
-      "companyLink": "https://tipzty.com",
-      "title": "CTO and Full-Stack Software Developer",
-      "description": "Tipzty offer to ecommerce various services for improve their sales trought live and video shopping, also have a Personal Shopper service online. Here I worked with JavaScript using React.js for the Front-End, for Back-End GoLang & Node.js and mobile apps with Flutter & React Native. Also I worked as CTO during 3 months making decisions on the area of development."
+      "companyLink": "tipzty.com",
+      "title": "Full-Stack Software Developer, CTO and Shopify Developer",
+      "description": "Tipzty, an e-commerce solution provider, specializes in boosting sales through live shopping and Personal Shopper assistance. As CTO for three months, I led development decisions, leveraging JavaScript (React.js), GoLang, Node.js, Flutter, and React Native. Spearheaded a Shopify app to sell services, enhancing market presence and facilitating seamless e-commerce integration. Contributed to Tipzty's mission of empowering businesses to thrive digitally through strategic innovation."
     },
     {
       "date": "Ene 2020 - Ene 2021",
       "company": "Cobuildlab",
-      "companyLink": "https://cobuildlab.com",
+      "companyLink": "cobuildlab.com",
       "title": "Full-Stack JavaScript Developer",
-      "description": "Cobuildlab is a software development company, here I worked with JavaScript React.js, Node.js, React Native, 8base and GraphQL. Here I worked in a lot of projects like okroo.com, jobcore.co and menafesting.com."
+      "description": "At Cobuildlab, a cutting-edge software development company, I improved my skills in JavaScript, including React.js, Node.js, React Native, 8base, and GraphQL. I contributed to various projects, including okroo.com, jobcore.co, and menafesting.com, enriching my experience and expertise in delivering high-quality solutions."
     },
     {
       "date": "Sept 2019 - Dic 2019",
       "company": "Picap",
-      "companyLink": "https://picap.co",
+      "companyLink": "picap.co",
       "title": "Front-End Developer",
-      "description": "Picap is an app like Uber in LATAM but using motorcycles and cars, here I worked with React.js on the Front-End side. I was in charge of develop an administrative panel for the company without using templates."
+      "description": "At Picap, an innovative app akin to Uber in LATAM, specializing in motorcycle and car rides, I spearheaded front-end development using React.js. Notably, I undertook the responsibility of crafting a bespoke administrative panel for the company, eschewing templates to ensure tailor-made solutions."
     },
     {
       "date": "Jun 2019 - Sept 2019",
       "company": "Aerolab",
-      "companyLink": "https://aerolab.co/expertise",
+      "companyLink": "aerolab.co/expertise",
       "title": "React Native Mobile Developer",
-      "description": "Aerolab is also a software development agency, here I worked with React Native as mobile developer. I contributed to finish an app for www.personal.com.ar."
+      "description": "At Aerolab, a leading software development agency, my role as a mobile developer focused on React Native. I played a significant role in completing an app for www.personal.com.ar, showcasing my expertise in mobile development within the React Native framework."
     },
     {
       "date": "Mar 2017 - Jun 2019",
       "company": "Cmantikweb",
-      "companyLink": "https://cmantikweb.com",
+      "companyLink": "cmantikweb.com",
       "title": "Full-Stack Web Developer",
-      "description": "Working with Cmantikweb was my first job as a Full-Stack Developer at an Agency of Software, here I worked with React.js, Backbone.js, PHP5+ with Laravel, MySQL, OctoberCMS, Node.js and more."
+      "description": "My tenure at Cmantikweb marked my debut as a Full-Stack Developer in a software agency. I adeptly utilized a range of technologies including React.js, Backbone.js, PHP5+ with Laravel, MySQL, OctoberCMS, Node.js, and more. This experience laid a solid foundation for my journey as a versatile developer."
     },
     {
       "date": "Jan 2017 - Mar 2017",
       "company": "Valery",
-      "companyLink": "https://valery.com",
+      "companyLink": "valery.com",
       "title": "Back-End Developer",
-      "description": "Developing microservices using Node.js for Valery products on the web and desktop apps. Valery has various products to manage and improve the efficiency of each kind of business."
+      "description": "I specialized in developing microservices with Node.js for Valery's web and desktop applications. Valery offers a diverse range of products tailored to optimize and streamline operations across various industries, enhancing business efficiency and management."
     }
   ],
   "sections": [
@@ -85,32 +106,48 @@
       "items": [
         {
           "name": "React.js",
-          "value": "More than 5 years of experience"
+          "value": "More than 6 years of experience"
         },
         {
           "name": "Node.js",
-          "value": "More than 5 years of experience"
+          "value": "More than 6 years of experience"
         },
         {
           "name": "React Native",
-          "value": "More than 3 years of experience"
+          "value": "More than 4 years of experience"
         },
         {
           "name": "Flask & Django (Python)",
           "value": "1 year of experience"
         },
         {
-          "name": "Backbone.js",
-          "value": "1 year of experience"
-        },
-        {
           "name": "GraphQL",
           "value": "1 year of experience"
         },
-
         {
-          "name": "Wordpress, OctoberCMS & Laraval (PHP)",
-          "value": "2 year of experience"
+          "name": "Wordpress, OctoberCMS & Laravel (PHP)",
+          "value": "2 years of experience"
+        },
+        {
+          "name": "Shopify",
+          "value": "2 years of experience"
+        }
+      ]
+    },
+    {
+      "title": "Other Skills",
+      "items": [
+        {
+          "name": "Soft skills",
+          "value": "Teamwork, Problem solving, Creativity, Patience and Communication"
+        },
+        {
+          "name": "Adobe Programs",
+          "value": "Adobe XD, Adobe Illustrator and Photoshop"
+        },
+        {
+          "name": "Operating systems",
+          "value": "Windows, macOS and Linux"
         }
       ]
     }
