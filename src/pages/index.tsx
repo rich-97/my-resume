@@ -75,6 +75,22 @@ const HomePage: FC<Props> = ({ data }) => {
                 <div className={styles.JobRight}>
                   <h3 className={styles.JobTitle}>{job.title}</h3>
                   <p className={styles.JobDesc}>{job.description}</p>
+                  {job.achievements && (
+                    <>
+                      <p className={styles.JobAchievementTitle}>Achievements</p>
+                      <ul>
+                        {job.achievements.map(
+                          (achievement, achievementIndex) => (
+                            <li key={achievementIndex}>
+                              <p className={styles.JobAchievement}>
+                                {achievement}
+                              </p>
+                            </li>
+                          )
+                        )}
+                      </ul>
+                    </>
+                  )}
                 </div>
               </div>
             ))}

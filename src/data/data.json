@@ -1,81 +1,128 @@
 {
   "email": "morenoricardo237@gmail.com",
   "full_name": "Ricardo Moreno",
-  "avatar": "https://dtv0n64gnvy8v.cloudfront.net/39e7ed72-3b15-11eb-bac4-98460a8fcda2.jpg",
-  "phone": "+57 3135472537",
+  "avatar": "/me.png",
+  "phone": "+57 3133295334",
   "address": "Santa Marta, Colombia",
-  "profession": "Senior Full-Stack Developer",
+  "profession": "Full-Stack Developer",
   "description": "I am a software developer specialized in web and mobile applications with more than 6 years of experience in different Frameworks. As a professional I am in charge of the analysis, design and implementation of components, architectures and systems in the area of software development. My experience has taught me to choose wisely the resources and tools to create an applicable, scalable and efficient software solution.",
   "jobs": [
+    {
+      "date": "June 2024 - Dec 2024",
+      "company": "ForTodos LLC",
+      "companyLink": "fortodos.com",
+      "title": "Full-Stack Developer",
+      "description": "ForTodos is a mobile application designed to facilitate the buying and selling of used items in a safe and reliable way. It works as a digital marketplace similar to \"Los Corotos,\" allowing users to sell products they no longer use and acquire second-hand items in their local area. I worked as a full-stack developer at ForTodos, where I was responsible for creating new functionalities and improving the current product.",
+      "achievements": [
+        "Improved the response time of several services in the API, significantly enhancing the overall application response time.",
+        "Optimized processes in the app to improve performance on devices with low RAM.",
+        "Made significant improvements to real-time events such as chat and notifications, ensuring a better user experience."
+      ]
+    },
     {
       "date": "Jan 2024 - May 2024",
       "company": "Sweedies",
       "companyLink": "getsweedies.com",
       "title": "Shopify Developer (part-time)",
-      "description": "Sweedies crafts indulgent, superfood-infused treats for moments of relaxation and enjoyment. Their products offers accessible indulgence, perfect for post-workout treats or movie nights. Sweedies' dedication to excellence drives me to craft captivating online experiences. As a developer, I create bespoke website themes, aligning with Sweedies' vision of quality and innovation."
+      "description": "Sweedies crafts indulgent, superfood-infused treats for moments of relaxation and enjoyment. Their products offers accessible indulgence, perfect for post-workout treats or movie nights. Sweedies' dedication to excellence drives me to craft captivating online experiences. As a developer, I create bespoke website themes, aligning with Sweedies' vision of quality and innovation.",
+      "achievements": [
+        "Built an entirely new theme from scratch with a unique design in record time."
+      ]
     },
     {
       "date": "Jan 2024 - May 2024",
       "company": "Tonymoly Colombia",
       "companyLink": "tonymolycolombia.com",
       "title": "Shopify Developer (part-time)",
-      "description": "Tonymoly Colombia, a Korean cosmetics leader since 2015, educates Latin women on Eastern-inspired skincare. Offering specialized products, I, as a developer, resolved issues and enhanced the live theme. My attention to detail maintained Tonymoly's online presence, reinforcing its position in Colombia."
+      "description": "Tonymoly Colombia, a Korean cosmetics leader since 2015, educates Latin women on Eastern-inspired skincare. Offering specialized products, I, as a developer, resolved issues and enhanced the live theme. My attention to detail maintained Tonymoly's online presence, reinforcing its position in Colombia.",
+      "achievements": [
+        "Improved the UI, resulting in a significantly better user experience.",
+        "Optimized the website using Lighthouse from Chrome, improving response time and performance scores."
+      ]
     },
     {
       "date": "Jan 2023 - Dec 2023",
       "company": "ByYuto LLC",
       "companyLink": "byyuto.com",
       "title": "Full-Stack Developer",
-      "description": "ByYuto LLC is a unique design, app, and web development agency that goes beyond mere service provision. They prioritize building enduring partnerships with clients, rooted in transparency, trust, and a mutual commitment to excellence. As a full-stack developer at ByYuto, I contribute to the company's mission by leveraging my expertise in both front-end and back-end development to create innovative solutions for clients. "
+      "description": "ByYuto LLC is a unique design, app, and web development agency that goes beyond mere service provision. They prioritize building enduring partnerships with clients, rooted in transparency, trust, and a mutual commitment to excellence. As a full-stack developer at ByYuto, I contribute to the company's mission by leveraging my expertise in both front-end and back-end development to create innovative solutions for clients.",
+      "achievements": [
+        "Gained knowledge of artificial intelligence while working with a client who already used AI in their processes. I contributed to creating a feature for an automatic response bot, improving customer service efficiency."
+      ]
     },
     {
       "date": "Feb 2022 - Dec 2022",
       "company": "Insightt",
       "companyLink": "insightt.io",
       "title": "Full-Stack Javascript Developer",
-      "description": "At Insightt, a top car repossession firm in the USA, I excelled as a developer. I used JavaScript (React.js) for intuitive front-end interfaces and Node.js for robust back-end functionality. Additionally, I developed mobile apps with React Native, expanding their reach and enhancing user accessibility. My expertise drove Insightt's technological advancement, ensuring ongoing success in the industry."
+      "description": "At Insightt, a top car repossession firm in the USA, I excelled as a developer. I used JavaScript (React.js) for intuitive front-end interfaces and Node.js for robust back-end functionality. Additionally, I developed mobile apps with React Native, expanding their reach and enhancing user accessibility. My expertise drove Insightt's technological advancement, ensuring ongoing success in the industry.",
+      "achievements": [
+        "Significantly improved the geolocation functionality in the app through code enhancements and better data processing, optimizing the user experience in React Native."
+      ]
     },
     {
       "date": "Feb 2021 - Feb 2022",
       "company": "Tipzty",
       "companyLink": "tipzty.com",
       "title": "Full-Stack Software Developer, CTO and Shopify Developer",
-      "description": "Tipzty, an e-commerce solution provider, specializes in boosting sales through live shopping and Personal Shopper assistance. As CTO for three months, I led development decisions, leveraging JavaScript (React.js), GoLang, Node.js, Flutter, and React Native. Spearheaded a Shopify app to sell services, enhancing market presence and facilitating seamless e-commerce integration. Contributed to Tipzty's mission of empowering businesses to thrive digitally through strategic innovation."
+      "description": "Tipzty, an e-commerce solution provider, specializes in boosting sales through live shopping and Personal Shopper assistance. As CTO for three months, I led development decisions, leveraging JavaScript (React.js), GoLang, Node.js, Flutter, and React Native. Spearheaded a Shopify app to sell services, enhancing market presence and facilitating seamless e-commerce integration. Contributed to Tipzty's mission of empowering businesses to thrive digitally through strategic innovation.",
+      "achievements": [
+        "Created a website that enabled sales through live streams.",
+        "Developed a Shopify plugin that displayed reviews via videos and streams, improving customer interaction with the product.",
+        "Built a React Native app that allowed users to perform streams, enhancing accessibility and functionality.",
+        "As CTO, I led the team to deliver the product on time, meeting all requirements and achieving a significant business impact."
+      ]
     },
     {
       "date": "Ene 2020 - Ene 2021",
       "company": "Cobuildlab",
       "companyLink": "cobuildlab.com",
       "title": "Full-Stack JavaScript Developer",
-      "description": "At Cobuildlab, a cutting-edge software development company, I improved my skills in JavaScript, including React.js, Node.js, React Native, 8base, and GraphQL. I contributed to various projects, including okroo.com, jobcore.co, and menafesting.com, enriching my experience and expertise in delivering high-quality solutions."
+      "description": "At Cobuildlab, a cutting-edge software development company, I improved my skills in JavaScript, including React.js, Node.js, React Native, 8base, and GraphQL. I contributed to various projects, including okroo.com, jobcore.co, and menafesting.com, enriching my experience and expertise in delivering high-quality solutions.",
+      "achievements": [
+        "Had the opportunity to create an app with a unique design from scratch, where I was involved in both development and design, ensuring an excellent user experience."
+      ]
     },
     {
       "date": "Sept 2019 - Dic 2019",
       "company": "Picap",
       "companyLink": "picap.co",
       "title": "Front-End Developer",
-      "description": "At Picap, an innovative app akin to Uber in LATAM, specializing in motorcycle and car rides, I spearheaded front-end development using React.js. Notably, I undertook the responsibility of crafting a bespoke administrative panel for the company, eschewing templates to ensure tailor-made solutions."
+      "description": "At Picap, an innovative app akin to Uber in LATAM, specializing in motorcycle and car rides, I spearheaded front-end development using React.js. Notably, I undertook the responsibility of crafting a bespoke administrative panel for the company, eschewing templates to ensure tailor-made solutions.",
+      "achievements": [
+        "Taught my colleagues about Git and other technologies, helping improve collaboration and workflow within the team."
+      ]
     },
     {
       "date": "Jun 2019 - Sept 2019",
       "company": "Aerolab",
       "companyLink": "aerolab.co/expertise",
       "title": "React Native Mobile Developer",
-      "description": "At Aerolab, a leading software development agency, my role as a mobile developer focused on React Native. I played a significant role in completing an app for www.personal.com.ar, showcasing my expertise in mobile development within the React Native framework."
+      "description": "At Aerolab, a leading software development agency, my role as a mobile developer focused on React Native. I played a significant role in completing an app for www.personal.com.ar, showcasing my expertise in mobile development within the React Native framework.",
+      "achievements": [
+        "Resolved numerous bugs in a banking app, which allowed me to gain valuable knowledge in the fintech field and security-related topics."
+      ]
     },
     {
       "date": "Mar 2017 - Jun 2019",
       "company": "Cmantikweb",
       "companyLink": "cmantikweb.com",
       "title": "Full-Stack Web Developer",
-      "description": "My tenure at Cmantikweb marked my debut as a Full-Stack Developer in a software agency. I adeptly utilized a range of technologies including React.js, Backbone.js, PHP5+ with Laravel, MySQL, OctoberCMS, Node.js, and more. This experience laid a solid foundation for my journey as a versatile developer."
+      "description": "My tenure at Cmantikweb marked my debut as a Full-Stack Developer in a software agency. I adeptly utilized a range of technologies including React.js, Backbone.js, PHP5+ with Laravel, MySQL, OctoberCMS, Node.js, and more. This experience laid a solid foundation for my journey as a versatile developer.",
+      "achievements": [
+        "Successfully migrated a website from WordPress to OctoberCMS, improving performance and usability in many areas.",
+        "Gained significant knowledge by creating animations with JavaScript and using the Canvas API to build interactive components."
+      ]
     },
     {
       "date": "Jan 2017 - Mar 2017",
       "company": "Valery",
       "companyLink": "valery.com",
       "title": "Back-End Developer",
-      "description": "I specialized in developing microservices with Node.js for Valery's web and desktop applications. Valery offers a diverse range of products tailored to optimize and streamline operations across various industries, enhancing business efficiency and management."
+      "description": "I specialized in developing microservices with Node.js for Valery's web and desktop applications. Valery offers a diverse range of products tailored to optimize and streamline operations across various industries, enhancing business efficiency and management.",
+      "achievements": [
+        "Participated in migrating the company's services to Node.js from Delphi programming language, improving the scalability and efficiency of the services."
+      ]
     }
   ],
   "sections": [

@@ -12,6 +12,7 @@ export type PersonalData = {
     companyLink: string;
     title: string;
     description: string;
+    achievements: string[];
   }[];
   sections: {
     title: string;
