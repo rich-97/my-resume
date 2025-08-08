@@ -8,7 +8,18 @@
   "description": "I am a software developer specialized in web and mobile applications with more than 6 years of experience in different Frameworks. As a professional I am in charge of the analysis, design and implementation of components, architectures and systems in the area of software development. My experience has taught me to choose wisely the resources and tools to create an applicable, scalable and efficient software solution.",
   "jobs": [
     {
-      "date": "June 2024 - Dec 2024",
+      "date": "March 2025 - Present",
+      "company": "Yummy Rides",
+      "companyLink": "yummysuperapp.com",
+      "title": "Full-Stack Developer",
+      "description": "Continuing as full-stack developer after Yummy Rides acquired ForTodos LLC. Focused on scaling the marketplace, performance, and reliability.",
+      "achievements": [
+        "Optimized the database schema and queries to ensure reliability under increased user load and maintain low response times.",
+        "Built and launched a new payments system leveraging Yummy Payments in record time."
+      ]
+    },
+    {
+      "date": "June 2024 - March 2025",
       "company": "ForTodos LLC",
       "companyLink": "fortodos.com",
       "title": "Full-Stack Developer",
@@ -16,7 +27,8 @@
       "achievements": [
         "Improved the response time of several services in the API, significantly enhancing the overall application response time.",
         "Optimized processes in the app to improve performance on devices with low RAM.",
-        "Made significant improvements to real-time events such as chat and notifications, ensuring a better user experience."
+        "Made significant improvements to real-time events such as chat and notifications, ensuring a better user experience.",
+        "Acquired by Yummy Rides in Jan 2025."
       ]
     },
     {
