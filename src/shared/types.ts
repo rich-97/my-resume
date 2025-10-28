@@ -1,4 +1,10 @@
 export type PersonalData = {
+  social_links: {
+    name: string;
+    url: string;
+    icon: React.ReactNode;
+  }[];
+  skills: string[];
   full_name: string;
   email: string;
   avatar: string;

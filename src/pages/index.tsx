@@ -3,6 +3,7 @@ import styles from "@/styles/Home.module.css";
 import fsPromises from "fs/promises";
 import path from "path";
 import { PersonalData } from "@/shared/types";
+import { GithubIcon, LinkedInIcon } from "@/components/Icons";
 
 type Props = {
   data: PersonalData;
@@ -51,6 +52,17 @@ const HomePage: FC<Props> = ({ data }) => {
       <div className={styles.HomeRight}>
         <h1 className={styles.Name}>{data.full_name}</h1>
         <p className={styles.Description}>{data.profession}</p>
+        <p className={styles.Skills}>
+          {data.skills.map((skill) => skill).join(", ")}
+        </p>
+        <div className={styles.SocialLinks}>
+          {data.social_links.map((link) => (
+            <a key={link.name} href={link.url} target="_blank" rel="noreferrer">
+              {link.icon === "github" ? <GithubIcon /> : null}
+              {link.icon === "linkedin" ? <LinkedInIcon /> : null}
+            </a>
+          ))}
+        </div>
         <div>
           <h2 className={styles.TitleUnderline}>Profile</h2>
           <p className={styles.ProfileText}>{data.description}</p>

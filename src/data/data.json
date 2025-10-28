@@ -5,6 +5,19 @@
   "phone": "+57 3133295334",
   "address": "Santa Marta, Colombia",
   "profession": "Full-Stack Developer",
+  "social_links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/rich-97",
+      "icon": "github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ricardo-moreno-dev",
+      "icon": "linkedin"
+    }
+  ],
+  "skills": ["React.js", "Node.js", "React Native", "GraphQL", "Shopify"],
   "description": "Full-Stack Engineer with 6+ years of experience building web and mobile applications, specialized in React.js, Node.js, and React Native. I have led the development of marketplaces, B2C platforms, and e‑commerce solutions, consistently improving performance, scalability, and user experience.",
   "jobs": [
     {
@@ -141,15 +154,6 @@
   ],
   "sections": [
     {
-      "title": "Education",
-      "items": [
-        {
-          "name": "System engineering",
-          "value": "2015 - 2019 at Dr. Jose Gregorio Hernandez, Venezuela"
-        }
-      ]
-    },
-    {
       "title": "Language",
       "items": [
         {
@@ -159,6 +163,15 @@
         {
           "name": "English",
           "value": "Intermediate / B2"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "items": [
+        {
+          "name": "System engineering",
+          "value": "2015 - 2019 at Dr. Jose Gregorio Hernandez, Venezuela"
         }
       ]
     },
