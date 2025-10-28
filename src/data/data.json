@@ -5,17 +5,19 @@
   "phone": "+57 3133295334",
   "address": "Santa Marta, Colombia",
   "profession": "Full-Stack Developer",
-  "description": "I am a software developer specialized in web and mobile applications with more than 6 years of experience in different Frameworks. As a professional I am in charge of the analysis, design and implementation of components, architectures and systems in the area of software development. My experience has taught me to choose wisely the resources and tools to create an applicable, scalable and efficient software solution.",
+  "description": "Full-Stack Engineer with 6+ years of experience building web and mobile applications, specialized in React.js, Node.js, and React Native. I have led the development of marketplaces, B2C platforms, and e‑commerce solutions, consistently improving performance, scalability, and user experience.",
   "jobs": [
     {
       "date": "March 2025 - Present",
       "company": "Yummy Rides",
       "companyLink": "yummysuperapp.com",
       "title": "Full-Stack Developer",
-      "description": "Continuing as full-stack developer after Yummy Rides acquired ForTodos LLC. Focused on scaling the marketplace, performance, and reliability.",
+      "description": "Full-stack developer after Yummy Rides acquired ForTodos LLC. Focused on scaling the marketplace, performance, and reliability. Worked on the Yummy Marketplace, Yummy Rides, and Yummy Payments.",
       "achievements": [
-        "Optimized the database schema and queries to ensure reliability under increased user load and maintain low response times.",
-        "Built and launched a new payments system leveraging Yummy Payments in record time."
+        "Led the integration of Yummy Marketplace into the Yummy Rides Android app, bridging native Android and React Native to deliver a seamless user experience and ensure stable, production-ready builds.",
+        "Modernized the multimedia and app infrastructure, resolving performance bottlenecks, improving navigation flows, and enhancing overall reliability across devices.",
+        "Designed and implemented secure end-to-end payment and payout flows on both mobile and backend, including verification, refunds, and disbursement management, strengthening trust and scalability.",
+        "Improved platform security and user experience by standardizing APIs, adding robust validations and monitoring, and refining payment interactions such as exchange rates, notifications, and error handling."
       ]
     },
     {
