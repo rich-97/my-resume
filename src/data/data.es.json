@@ -1,0 +1,230 @@
+{
+  "email": "morenoricardo237@gmail.com",
+  "full_name": "Ricardo Moreno",
+  "avatar": "/me.png",
+  "phone": "+57 3133295334",
+  "address": "Santa Marta, Colombia",
+  "profession": "Desarrollador Full-Stack",
+  "social_links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/rich-97",
+      "icon": "github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ricardo-moreno-dev",
+      "icon": "linkedin"
+    }
+  ],
+  "skills": ["React.js", "Node.js", "React Native", "GraphQL", "Shopify"],
+  "description": "Ingeniero Full-Stack con más de 6 años de experiencia desarrollando aplicaciones web y móviles, especializado en React.js, Node.js y React Native. He liderado el desarrollo de marketplaces, plataformas B2C y soluciones de comercio electrónico, mejorando constantemente el rendimiento, la escalabilidad y la experiencia del usuario.",
+  "jobs": [
+    {
+      "date": "Marzo 2025 - Presente",
+      "company": "Yummy Rides",
+      "companyLink": "yummysuperapp.com",
+      "title": "Desarrollador Full-Stack",
+      "description": "Desarrollador full-stack después de que Yummy Rides adquiriera ForTodos LLC. Enfocado en escalar el marketplace, mejorar el rendimiento y la confiabilidad. Trabajé en Yummy Marketplace, Yummy Rides y Yummy Payments.",
+      "achievements": [
+        "Lideré la integración de Yummy Marketplace en la aplicación Android de Yummy Rides, conectando Android nativo con React Native para ofrecer una experiencia de usuario fluida y garantizar builds estables listos para producción.",
+        "Modernizé la infraestructura multimedia y de la aplicación, resolviendo cuellos de botella de rendimiento, mejorando los flujos de navegación y aumentando la confiabilidad general en todos los dispositivos.",
+        "Diseñé e implementé flujos seguros de pagos y desembolsos de extremo a extremo en móvil y backend, incluyendo verificación, reembolsos y gestión de desembolsos, fortaleciendo la confianza y escalabilidad.",
+        "Mejoré la seguridad de la plataforma y la experiencia del usuario estandarizando APIs, agregando validaciones robustas y monitoreo, y refinando las interacciones de pago como tasas de cambio, notificaciones y manejo de errores."
+      ]
+    },
+    {
+      "date": "Junio 2024 - Marzo 2025",
+      "company": "ForTodos LLC",
+      "companyLink": "fortodos.com",
+      "title": "Desarrollador Full-Stack",
+      "description": "ForTodos es una aplicación móvil diseñada para facilitar la compra y venta de artículos usados de manera segura y confiable. Funciona como un marketplace digital similar a \"Los Corotos\", permitiendo a los usuarios vender productos que ya no usan y adquirir artículos de segunda mano en su área local. Trabajé como desarrollador full-stack en ForTodos, donde fui responsable de crear nuevas funcionalidades y mejorar el producto actual.",
+      "achievements": [
+        "Mejoré el tiempo de respuesta de varios servicios en la API, mejorando significativamente el tiempo de respuesta general de la aplicación.",
+        "Optimicé procesos en la app para mejorar el rendimiento en dispositivos con poca RAM.",
+        "Realicé mejoras significativas en los eventos en tiempo real como chat y notificaciones, garantizando una mejor experiencia de usuario.",
+        "Adquirida por Yummy Rides en enero de 2025."
+      ]
+    },
+    {
+      "date": "Ene 2024 - May 2024",
+      "company": "Sweedies",
+      "companyLink": "getsweedies.com",
+      "title": "Desarrollador Shopify (medio tiempo)",
+      "description": "Sweedies crea golosinas indulgentes infusionadas con superalimentos para momentos de relajación y disfrute. Sus productos ofrecen indulgencia accesible, perfecta para después del entrenamiento o noches de películas. La dedicación de Sweedies a la excelencia me impulsa a crear experiencias en línea cautivadoras. Como desarrollador, creo temas de sitios web personalizados, alineándome con la visión de Sweedies de calidad e innovación.",
+      "achievements": [
+        "Construí un tema completamente nuevo desde cero con un diseño único en tiempo récord."
+      ]
+    },
+    {
+      "date": "Ene 2024 - May 2024",
+      "company": "Tonymoly Colombia",
+      "companyLink": "tonymolycolombia.com",
+      "title": "Desarrollador Shopify (medio tiempo)",
+      "description": "Tonymoly Colombia, líder en cosméticos coreanos desde 2015, educa a las mujeres latinoamericanas sobre el cuidado de la piel inspirado en Oriente. Ofreciendo productos especializados, yo, como desarrollador, resolví problemas y mejoré el tema en vivo. Mi atención al detalle mantuvo la presencia en línea de Tonymoly, reforzando su posición en Colombia.",
+      "achievements": [
+        "Mejoré la interfaz de usuario, resultando en una experiencia de usuario significativamente mejor.",
+        "Optimicé el sitio web usando Lighthouse de Chrome, mejorando el tiempo de respuesta y los puntajes de rendimiento."
+      ]
+    },
+    {
+      "date": "Ene 2023 - Dic 2023",
+      "company": "ByYuto LLC",
+      "companyLink": "byyuto.com",
+      "title": "Desarrollador Full-Stack",
+      "description": "ByYuto LLC es una agencia única de diseño, aplicaciones y desarrollo web que va más allá de la simple provisión de servicios. Priorizan construir asociaciones duraderas con los clientes, arraigadas en transparencia, confianza y un compromiso mutuo con la excelencia. Como desarrollador full-stack en ByYuto, contribuí a la misión de la empresa aprovechando mi experiencia en desarrollo front-end y back-end para crear soluciones innovadoras para los clientes.",
+      "achievements": [
+        "Obtuve conocimientos de inteligencia artificial mientras trabajaba con un cliente que ya usaba IA en sus procesos. Contribuí a crear una función para un bot de respuesta automática, mejorando la eficiencia del servicio al cliente."
+      ]
+    },
+    {
+      "date": "Feb 2022 - Dic 2022",
+      "company": "Insightt",
+      "companyLink": "insightt.io",
+      "title": "Desarrollador Full-Stack Javascript",
+      "description": "En Insightt, una empresa líder en recuperación de automóviles en EE.UU., sobresalí como desarrollador. Utilicé JavaScript (React.js) para interfaces front-end intuitivas y Node.js para funcionalidad back-end robusta. Además, desarrollé aplicaciones móviles con React Native, expandiendo su alcance y mejorando la accesibilidad del usuario. Mi experiencia impulsó el avance tecnológico de Insightt, asegurando el éxito continuo en la industria.",
+      "achievements": [
+        "Mejoré significativamente la funcionalidad de geolocalización en la app a través de mejoras en el código y mejor procesamiento de datos, optimizando la experiencia del usuario en React Native."
+      ]
+    },
+    {
+      "date": "Feb 2021 - Feb 2022",
+      "company": "Tipzty",
+      "companyLink": "tipzty.com",
+      "title": "Desarrollador Full-Stack, CTO y Desarrollador Shopify",
+      "description": "Tipzty, proveedor de soluciones de comercio electrónico, se especializa en aumentar las ventas a través de live shopping y asistencia de Personal Shopper. Como CTO durante tres meses, lideré decisiones de desarrollo, aprovechando JavaScript (React.js), GoLang, Node.js, Flutter y React Native. Encabecé una aplicación de Shopify para vender servicios, mejorando la presencia en el mercado y facilitando una integración de comercio electrónico sin problemas. Contribuí a la misión de Tipzty de empoderar a las empresas a prosperar digitalmente a través de la innovación estratégica.",
+      "achievements": [
+        "Creé un sitio web que permitía ventas a través de transmisiones en vivo.",
+        "Desarrollé un plugin de Shopify que mostraba reseñas a través de videos y transmisiones, mejorando la interacción del cliente con el producto.",
+        "Construí una app de React Native que permitía a los usuarios realizar transmisiones, mejorando la accesibilidad y funcionalidad.",
+        "Como CTO, lideré al equipo para entregar el producto a tiempo, cumpliendo con todos los requisitos y logrando un impacto empresarial significativo."
+      ]
+    },
+    {
+      "date": "Ene 2020 - Ene 2021",
+      "company": "Cobuildlab",
+      "companyLink": "cobuildlab.com",
+      "title": "Desarrollador Full-Stack JavaScript",
+      "description": "En Cobuildlab, una empresa de desarrollo de software de vanguardia, mejoré mis habilidades en JavaScript, incluyendo React.js, Node.js, React Native, 8base y GraphQL. Contribuí a varios proyectos, incluyendo okroo.com, jobcore.co y menafesting.com, enriqueciendo mi experiencia y pericia en la entrega de soluciones de alta calidad.",
+      "achievements": [
+        "Tuve la oportunidad de crear una app con un diseño único desde cero, donde estuve involucrado tanto en el desarrollo como en el diseño, asegurando una excelente experiencia de usuario."
+      ]
+    },
+    {
+      "date": "Sept 2019 - Dic 2019",
+      "company": "Picap",
+      "companyLink": "picap.co",
+      "title": "Desarrollador Front-End",
+      "description": "En Picap, una app innovadora similar a Uber en LATAM, especializada en viajes en motocicleta y automóvil, lideré el desarrollo front-end usando React.js. Notablemente, asumí la responsabilidad de crear un panel administrativo personalizado para la empresa, evitando plantillas para garantizar soluciones hechas a medida.",
+      "achievements": [
+        "Enseñé a mis colegas sobre Git y otras tecnologías, ayudando a mejorar la colaboración y el flujo de trabajo dentro del equipo."
+      ]
+    },
+    {
+      "date": "Jun 2019 - Sept 2019",
+      "company": "Aerolab",
+      "companyLink": "aerolab.co/expertise",
+      "title": "Desarrollador Móvil React Native",
+      "description": "En Aerolab, una agencia líder en desarrollo de software, mi rol como desarrollador móvil se centró en React Native. Jugué un papel significativo en completar una app para www.personal.com.ar, mostrando mi experiencia en desarrollo móvil dentro del framework React Native.",
+      "achievements": [
+        "Resolví numerosos bugs en una app bancaria, lo que me permitió obtener conocimientos valiosos en el campo fintech y temas relacionados con seguridad."
+      ]
+    },
+    {
+      "date": "Mar 2017 - Jun 2019",
+      "company": "Cmantikweb",
+      "companyLink": "cmantikweb.com",
+      "title": "Desarrollador Web Full-Stack",
+      "description": "Mi permanencia en Cmantikweb marcó mi debut como Desarrollador Full-Stack en una agencia de software. Utilicé hábilmente una variedad de tecnologías incluyendo React.js, Backbone.js, PHP5+ con Laravel, MySQL, OctoberCMS, Node.js y más. Esta experiencia sentó una base sólida para mi trayectoria como desarrollador versátil.",
+      "achievements": [
+        "Migré exitosamente un sitio web de WordPress a OctoberCMS, mejorando el rendimiento y la usabilidad en muchas áreas.",
+        "Obtuve conocimientos significativos al crear animaciones con JavaScript y usar la API de Canvas para construir componentes interactivos."
+      ]
+    },
+    {
+      "date": "Ene 2017 - Mar 2017",
+      "company": "Valery",
+      "companyLink": "valery.com",
+      "title": "Desarrollador Back-End",
+      "description": "Me especialicé en desarrollar microservicios con Node.js para las aplicaciones web y de escritorio de Valery. Valery ofrece una gama diversa de productos diseñados para optimizar y agilizar operaciones en varias industrias, mejorando la eficiencia empresarial y la gestión.",
+      "achievements": [
+        "Participé en la migración de los servicios de la empresa a Node.js desde el lenguaje de programación Delphi, mejorando la escalabilidad y eficiencia de los servicios."
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Idioma",
+      "items": [
+        {
+          "name": "Español",
+          "value": "Nativo"
+        },
+        {
+          "name": "Inglés",
+          "value": "Intermedio / B2"
+        }
+      ]
+    },
+    {
+      "title": "Educación",
+      "items": [
+        {
+          "name": "Ingeniería de sistemas",
+          "value": "2015 - 2019 en Dr. Jose Gregorio Hernandez, Venezuela"
+        }
+      ]
+    },
+    {
+      "title": "Bibliotecas y Frameworks",
+      "items": [
+        {
+          "name": "React.js",
+          "value": "Más de 6 años de experiencia"
+        },
+        {
+          "name": "Node.js",
+          "value": "Más de 6 años de experiencia"
+        },
+        {
+          "name": "React Native",
+          "value": "Más de 4 años de experiencia"
+        },
+        {
+          "name": "Flask & Django (Python)",
+          "value": "1 año de experiencia"
+        },
+        {
+          "name": "GraphQL",
+          "value": "1 año de experiencia"
+        },
+        {
+          "name": "Wordpress, OctoberCMS & Laravel (PHP)",
+          "value": "2 años de experiencia"
+        },
+        {
+          "name": "Shopify",
+          "value": "2 años de experiencia"
+        }
+      ]
+    },
+    {
+      "title": "Otras Habilidades",
+      "items": [
+        {
+          "name": "Habilidades blandas",
+          "value": "Trabajo en equipo, Resolución de problemas, Creatividad, Paciencia y Comunicación"
+        },
+        {
+          "name": "Programas Adobe",
+          "value": "Adobe XD, Adobe Illustrator y Photoshop"
+        },
+        {
+          "name": "Sistemas operativos",
+          "value": "Windows, macOS y Linux"
+        }
+      ]
+    }
+  ]
+}
+

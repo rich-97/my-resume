@@ -7,23 +7,47 @@ import { GithubIcon, LinkedInIcon } from "@/components/Icons";
 
 type Props = {
   data: PersonalData;
+  lang: string;
 };
 
-const HomePage: FC<Props> = ({ data }) => {
+const translations = {
+  en: {
+    contact: "Contact",
+    phone: "Phone",
+    email: "Email",
+    address: "Address",
+    profile: "Profile",
+    experience: "Experience",
+    achievements: "Achievements",
+  },
+  es: {
+    contact: "Contacto",
+    phone: "Teléfono",
+    email: "Correo",
+    address: "Dirección",
+    profile: "Perfil",
+    experience: "Experiencia",
+    achievements: "Logros",
+  },
+};
+
+const HomePage: FC<Props> = ({ data, lang }) => {
+  const t = translations[lang as keyof typeof translations] || translations.en;
+
   const sections = [
     {
-      title: "Contact",
+      title: t.contact,
       items: [
         {
-          name: "Phone",
+          name: t.phone,
           value: data.phone,
         },
         {
-          name: "Email",
+          name: t.email,
           value: data.email,
         },
         {
-          name: "Address",
+          name: t.address,
           value: data.address,
         },
       ],
@@ -64,11 +88,11 @@ const HomePage: FC<Props> = ({ data }) => {
           ))}
         </div>
         <div>
-          <h2 className={styles.TitleUnderline}>Profile</h2>
+          <h2 className={styles.TitleUnderline}>{t.profile}</h2>
           <p className={styles.ProfileText}>{data.description}</p>
         </div>
         <div>
-          <h2 className={styles.TitleUnderline}>Experience</h2>
+          <h2 className={styles.TitleUnderline}>{t.experience}</h2>
           <div>
             {data.jobs.map((job, jobKey) => (
               <div className={styles.Job} key={jobKey}>
@@ -89,7 +113,7 @@ const HomePage: FC<Props> = ({ data }) => {
                   <p className={styles.JobDesc}>{job.description}</p>
                   {job.achievements && (
                     <>
-                      <p className={styles.JobAchievementTitle}>Achievements</p>
+                      <p className={styles.JobAchievementTitle}>{t.achievements}</p>
                       <ul>
                         {job.achievements.map(
                           (achievement, achievementIndex) => (
@@ -113,14 +137,17 @@ const HomePage: FC<Props> = ({ data }) => {
   );
 };
 
-export async function getStaticProps() {
-  const filePath = path.join(process.cwd(), "src/data/data.json");
+export async function getServerSideProps(context: any) {
+  const lang = context.query.lang || "en";
+  const fileName = lang === "es" ? "data.es.json" : "data.json";
+  const filePath = path.join(process.cwd(), `src/data/${fileName}`);
   const jsonData = await fsPromises.readFile(filePath);
   const objectData = JSON.parse(jsonData.toString());
 
   return {
     props: {
       data: objectData,
+      lang,
     },
   };
 }
