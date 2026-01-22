@@ -53,7 +53,6 @@
         "Optimized API response times by 60% through query optimization, caching strategies with Redis, and implementing efficient state management with Redux, significantly enhancing the overall application performance.",
         "Led mobile performance optimization efforts for devices with low RAM, implementing memory management best practices, lazy loading, and code splitting in React Native, improving app stability on budget Android devices by 45%.",
         "Architected and implemented real-time features including chat and push notifications using WebSockets and Firebase Cloud Messaging, ensuring sub-second message delivery and seamless user experience.",
-        "Mentored 2 junior developers on React Native best practices, code review processes, and mobile development workflows, improving team velocity and code quality.",
         "Successfully acquired by Yummy Rides in Jan 2025, with product transition completed ahead of schedule."
       ]
     },
