@@ -204,23 +204,27 @@
       "items": [
         {
           "name": "Mobile Development",
-          "value": "React Native (4+ years), Expo, React Navigation, React Native Reanimated, Gesture Handler, native modules (Swift, Objective-C, Kotlin, Java)"
+          "value": "React Native (4+ years), Expo (managed and bare workflows), React Navigation, React Native Reanimated, Gesture Handler, native modules with React Native (Swift, Objective-C, Kotlin, Java)"
         },
         {
           "name": "Frontend",
-          "value": "React.js (6+ years), TypeScript (3+ years), JavaScript (ES6+), Redux, Recoil, Context API, HTML5, CSS3, Tailwind CSS"
+          "value": "React.js (6+ years), Next.js, Vite, TypeScript (3+ years), JavaScript (ES6+), Redux, Recoil, Context API, HTML5, CSS3, Tailwind CSS"
         },
         {
           "name": "Backend",
-          "value": "Node.js (6+ years), Express.js, GraphQL, RESTful APIs, WebSockets, Microservices"
+          "value": "Node.js (6+ years), Nest.js, Express.js, GraphQL, RESTful APIs, WebSockets, Microservices"
         },
         {
           "name": "Testing & Quality",
-          "value": "Jest, Detox, React Native Testing Library, React Testing Library, Unit Testing, Integration Testing, E2E Testing"
+          "value": "Jest, Vitest, Detox, React Native Testing Library, React Testing Library, Unit Testing, Integration Testing, E2E Testing"
         },
         {
           "name": "DevOps & Tools",
           "value": "Git, GitHub, GitLab, CI/CD (GitHub Actions, Fastlane), Xcode, Android Studio, Docker, Firebase, Sentry, Analytics"
+        },
+        {
+          "name": "AI Tools",
+          "value": "Cursor, GitHub Copilot, Claude Code, Gemini, ChatGPT, Codex"
         },
         {
           "name": "Databases",
