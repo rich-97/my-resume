@@ -27,7 +27,7 @@
     "Jest",
     "Shopify"
   ],
-  "description": "Ingeniero Full-Stack Senior con más de 6 años de experiencia desarrollando aplicaciones web y móviles escalables, especializado en React.js, Node.js, TypeScript y React Native. Trayectoria comprobada liderando equipos de desarrollo, mentoreando desarrolladores y arquitectando marketplaces de alto rendimiento, plataformas B2C y soluciones de comercio electrónico. Experto en optimización de aplicaciones móviles, integración de módulos nativos e implementación de pipelines robustos de CI/CD.",
+  "description": "Ingeniero Full-Stack Senior con más de 9 años de experiencia desarrollando aplicaciones web y móviles escalables, especializado en React.js, Node.js, TypeScript y React Native. Trayectoria comprobada liderando equipos de desarrollo, mentoreando desarrolladores y arquitectando marketplaces de alto rendimiento, plataformas B2C y soluciones de comercio electrónico. Experto en optimización de aplicaciones móviles, integración de módulos nativos e implementación de pipelines robustos de CI/CD.",
   "jobs": [
     {
       "date": "Marzo 2025 - Presente",
@@ -208,11 +208,11 @@
         },
         {
           "name": "Frontend",
-          "value": "React.js (6+ años), Next.js, Vite, TypeScript (3+ años), JavaScript (ES6+), Redux, Recoil, Context API, HTML5, CSS3, Tailwind CSS"
+          "value": "React.js (9+ años), Next.js, Vite, TypeScript (3+ años), JavaScript (ES6+), Redux, Recoil, Context API, HTML5, CSS3, Tailwind CSS"
         },
         {
           "name": "Backend",
-          "value": "Node.js (6+ años), Nest.js, Express.js, GraphQL, APIs RESTful, WebSockets, Microservicios"
+          "value": "Node.js (9+ años), Nest.js, Express.js, GraphQL, APIs RESTful, WebSockets, Microservicios"
         },
         {
           "name": "Testing y Calidad",
